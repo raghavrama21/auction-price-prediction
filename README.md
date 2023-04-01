@@ -4,10 +4,10 @@
 # Setup
 #### To run this project, you will need to have Python installed on your machine along with the following libraries:
 
-#### Selenium
-#### Beautiful Soup
-#### Pandas
-#### Scikit-learn
+* Selenium
+* Beautiful Soup
+* Pandas
+* Scikit-learn
 
 # Usage
 ### To use the scraper, modify the script to specify the auctions you are interested in and run it to extract the data. The extracted data can then be preprocessed and used to train a machine learning model using scikit-learn.
