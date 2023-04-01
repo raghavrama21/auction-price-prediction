@@ -10,7 +10,7 @@
 * Scikit-learn
 
 # Usage
-### To use the scraper, modify the script to specify the auctions you are interested in and run it to extract the data. The extracted data can then be preprocessed and used to train a machine learning model using scikit-learn.
+#### To use the scraper, modify the script to specify the auctions you are interested in and run it to extract the data. The extracted data can then be preprocessed and used to train a machine learning model using scikit-learn.
 
 # Evaluation
 #### The performance of the model can be evaluated using appropriate metrics and testing techniques, and the model can be refined based on feedback and further data analysis.
